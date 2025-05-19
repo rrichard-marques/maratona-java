@@ -1,4 +1,4 @@
-package estudos.richardmarques.maratonajava.introcucao;
+package introducao;
 
 public class Aula01OlaRichardMarques {
     public static void main(String[] args) {
