@@ -1,6 +1,6 @@
 package javacore.Bintroducaometodos.test;
 
-import estudos.richardmarques.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
+import javacore.Bintroducaometodos.dominio.Calculadora;
 
 
 public class CalculadoraTest01 {
