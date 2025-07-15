@@ -1,6 +1,6 @@
 package javacore.Npolimorfismo.servico;
 
-import estudos.richardmarques.maratonajava.javacore.Npolimorfismo.repositorio.Repositorio;
+import javacore.Npolimorfismo.repositorio.Repositorio;
 
 public class RepositorioArquivo implements Repositorio {
 
