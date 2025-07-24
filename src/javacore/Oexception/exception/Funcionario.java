@@ -1,4 +1,4 @@
-package javacore.Oexception.error.exception.dominio;
+package javacore.Oexception.exception;
 
 public class Funcionario extends Pessoa {
 
